@@ -2,7 +2,5 @@
 ## Engine for visualizing 3d Scenes
 
 ### Dependencies
-OpenGL
-Spdlog
-GLFW
+GLFW, GLM, Glad,  ImGui,  ImGuizmo,  spdlog,  stb_image, Premake
 
